@@ -2,7 +2,7 @@ import './Botao.css'
 
 const Botao = () => {
     return (
-        <button>
+        <button className='botao'>
             Sign in
         </button>
     )
