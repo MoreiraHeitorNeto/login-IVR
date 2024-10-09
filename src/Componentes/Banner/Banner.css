@@ -1,6 +1,7 @@
 .banner{
     display: flex;
     align-items: flex-end;
+    font-family: 'Roboto', sans-serif !important;
 }
 
 .banner img{
